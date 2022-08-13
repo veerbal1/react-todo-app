@@ -16,14 +16,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React.js <MyComponent title="Veerbal" />
+          Veerbal Singh <br/>
+          Front-end UI/UX Developer
         </a>
       </header>
     </div>
   );
 }
 
-const MyComponent = ({ title }: { title: string }) => {
-  return <h1>{title}</h1>;
-};
 export default App;
