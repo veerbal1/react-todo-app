@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React <MyComponent title="Veerbal" />
+          Learn React.js <MyComponent title="Veerbal" />
         </a>
       </header>
     </div>
