@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Veerbal Singh <br/>
+          Veerbal Singh <br />
           Front-end UI/UX Developer
         </a>
       </header>
