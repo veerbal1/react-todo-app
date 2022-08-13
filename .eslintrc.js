@@ -19,7 +19,6 @@ module.exports = {
   },
   plugins: ['react', '@typescript-eslint'],
   rules: {
-    camalcase: 'off',
     'require-jsdoc': 'off',
     'no-unused-vars': 'error',
     'react/jsx-uses-react': 'off',
